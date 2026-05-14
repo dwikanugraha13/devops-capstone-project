@@ -12,3 +12,4 @@ A RESTful microservice to manage customer accounts for an e-commerce platform.
 - PostgreSQL
 - Docker / Kubernetes
 - Tekton CI/CD
+
