@@ -2,7 +2,7 @@
 Account Service Routes
 """
 from flask import jsonify, request, abort, url_for
-from service.models import Account, DataValidationError
+from service.models import Account
 from service.common import status
 from . import app
 
